@@ -124,6 +124,7 @@ local Eggs = {
     "mythic_egg",
     "japan_2022_egg",
     "danger_2023_egg",
+    "urban_2023_egg",
 }
 
 local gifts = {
